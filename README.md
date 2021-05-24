@@ -9,7 +9,7 @@ Empurre para seus repositórios remotos do Git.
 Consulte os estatutos da CI.
 A sintaxe destacou diffs.
 Integração shell.
-E muito mais.
+E muito mais.<br>
  brModelo:<br>
  draw.io:<br>
  Visual Studio:<br>
