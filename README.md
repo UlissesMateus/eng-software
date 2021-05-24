@@ -16,5 +16,14 @@ brModelo é uma ferramenta excelente ferramenta criada para facilitar a criaçã
 O programa foi desenvolvido como trabalho de conclusão de pós-graduação e tem como base a metodologia defendida por Carlos A. Heuser, autor do livro Projeto de Banco de Dados. Esta ferramenta é muito utilizada na área acadêmica pelas mais diversas faculdades e universidades.
 <hr>
  draw.io:<br>
- Visual Studio:<br>
- Meistertask:<br>
+ O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.
+ <hr>
+Visual Studio Code:<br>
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele também é customizável, fazendo com que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto, apesar do download oficial estar sob uma licença proprietária.
+<br>
+O Visual Studio Code é baseado no Electron, uma framework que é usada para desenvolver aplicativos Node.js para o desktop rodando no motor de layout Blink. Apesar de usar o Electron como framework, o software não usa o Atom e em seu lugar emprega o mesmo componente editor (codenomeado "Monaco") usado no Visual Studio Team Services (anteriormente chamado de Visual Studio Online).
+<hr>
+Meistertask:<br>
+O MeisterTask é uma das ferramentas de gerenciamento de projetos e equipes mais interessantes do mercado. Ela faz parte do grupo do MindMeister, um app colaborativo de mapeamento mental.
+A versão gratuita é bem interessante e possui muitos recursos, entre eles a customização do dashboard, não ter limite de projetos e membros e ainda é possível fazer duas integrações.
+Com ele, você pode assinalar as tarefas como duplicadas, relacionadas ou bloqueadas e quando um bloqueio for resolvido, você será notificado. O software também permite configurar ações automáticas para facilitar o seu dia a dia.
